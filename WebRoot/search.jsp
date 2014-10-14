@@ -3,7 +3,7 @@
 
 <html>
   <body>
-    <h2><center>查询</center></h2>
+    <h2><center>查询页面</center></h2>
     <center>
     <a href='categoryList.action'>返回主页</a>
     <s:form action="searchCategory" namespace="/" method="post">
