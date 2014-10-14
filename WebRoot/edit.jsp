@@ -3,7 +3,7 @@
 
 <html>
   <body>
-    <h2><center>图书详细信息</center></h2>
+    <h2><center>图书-详细信息</center></h2>
     <center>
     <a href='categoryList.action'>返回主页</a>
     <s:form action="editCategory" namespace="/" method="post">
